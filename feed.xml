@@ -4,10 +4,17 @@
     <title>SFF Small Form Factor PC Builders Hub</title>
     <link>https://sff-small-form-factor-pc-builders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:22:11 GMT</lastBuildDate>
     <atom:link href="https://sff-small-form-factor-pc-builders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-forum-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:22:11 GMT</pubDate>
+      <description>Newly verified community added to SFF Small Form Factor PC Builders Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>SFF Small Form Factor PC Builders Hub Initial Release</title>
       <link>https://sff-small-form-factor-pc-builders-hub.vercel.app/</link>
       <pubDate>Fri, 18 Sep 2026 06:04:36 GMT</pubDate>
