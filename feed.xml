@@ -4,10 +4,17 @@
     <title>SFF Small Form Factor PC Builders Hub</title>
     <link>https://sff-small-form-factor-pc-builders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:11:39 GMT</lastBuildDate>
     <atom:link href="https://sff-small-form-factor-pc-builders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-            <item>
+                <item>
+      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-reddit-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:11:39 GMT</pubDate>
+      <description>Newly verified community added to SFF Small Form Factor PC Builders Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
       <link>https://www.reddit.com/r/MachineLearning/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-reddit-20260919-1-2026-09-19</guid>
