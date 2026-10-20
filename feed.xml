@@ -4,10 +4,17 @@
     <title>SFF Small Form Factor PC Builders Hub</title>
     <link>https://sff-small-form-factor-pc-builders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:33:13 GMT</lastBuildDate>
     <atom:link href="https://sff-small-form-factor-pc-builders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
+      <link>https://www.reddit.com/r/hardware/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-reddit-20261020-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:33:13 GMT</pubDate>
+      <description>Newly verified community added to SFF Small Form Factor PC Builders Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
       <link>https://discuss.hashicorp.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-forum-20261019-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-reddit-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:11:39 GMT</pubDate>
       <description>Newly verified community added to SFF Small Form Factor PC Builders Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/MachineLearning Research (Reddit)</title>
-      <link>https://www.reddit.com/r/MachineLearning/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/sff-small-form-factor-pc-builders-hub/#sff-small-form-factor-pc-builders-hub-reddit-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:08:11 GMT</pubDate>
-      <description>Newly verified community added to SFF Small Form Factor PC Builders Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
     </item>
   </channel>
 </rss>
